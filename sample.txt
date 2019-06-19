@@ -1,2 +1,2 @@
 This is a feature branch text going to merge now
-Gonna add new thing
+This is a feature branch text going to merge now
